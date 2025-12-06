@@ -1,0 +1,92 @@
+| Tense                             | Structure                         | Example                                                          |
+| --------------------------------- | --------------------------------- | ---------------------------------------------------------------- |
+| **1. Simple Present**             | S + V₁ (base verb) + O            | She **writes** a letter.                                         |
+| **2. Present Continuous**         | S + is/am/are + V₁ + ing + O      | She **is writing** a letter.                                     |
+| **3. Present Perfect**            | S + has/have + V₃ + O             | She **has written** a letter.                                    |
+| **4. Present Perfect Continuous** | S + has/have been + V₁ + ing + O  | She **has been writing** a letter for 2 hours.                   |
+| **5. Simple Past**                | S + V₂ + O                        | She **wrote** a letter.                                          |
+| **6. Past Continuous**            | S + was/were + V₁ + ing + O       | She **was writing** a letter.                                    |
+| **7. Past Perfect**               | S + had + V₃ + O                  | She **had written** a letter before he arrived.                  |
+| **8. Past Perfect Continuous**    | S + had been + V₁ + ing + O       | She **had been writing** a letter for 2 hours before he arrived. |
+| **9. Simple Future**              | S + will + V₁ + O                 | She **will write** a letter.                                     |
+| **10. Future Continuous**         | S + will be + V₁ + ing + O        | She **will be writing** a letter.                                |
+| **11. Future Perfect**            | S + will have + V₃ + O            | She **will have written** a letter by tomorrow.                  |
+| **12. Future Perfect Continuous** | S + will have been + V₁ + ing + O | She **will have been writing** a letter for 2 hours by tomorrow. |
+
+
+| Time                   | Action Type                                  |
+| ---------------------- | -------------------------------------------- |
+| **Simple**             | Habit / Fact / Completed action              |
+| **Continuous**         | Action in progress                           |
+| **Perfect**            | Action already completed before another time |
+| **Perfect Continuous** | Action started in past & still continuing    |
+
+Helping / Auxiliary / Modal Verbs
+
+1️⃣ Be Verbs (is, am, are, was, were)
+
+| Word | When Used                          |
+| ---- | ---------------------------------- |
+| am   | I (present)                        |
+| is   | singular (he, she, it) (present)   |
+| are  | plural / you / we / they (present) |
+| was  | singular (past)                    |
+| were | plural / you (past)                |
+
+2️⃣ Have Verbs (has, have, had)
+
+| Word | When Used              |
+| ---- | ---------------------- |
+| has  | singular (he, she, it) |
+| have | I, you, we, they       |
+| had  | past for all           |
+
+3️⃣ Do Verbs (do, does, did)
+
+| Word | Used For                     |
+| ---- | ---------------------------- |
+| do   | plural / I / you / we / they |
+| does | singular (he / she / it)     |
+| did  | past (all)                   |
+
+4️⃣ Modal Verbs (for possibility, requirement, obligation, advice)
+
+| Modal       | Meaning                          | Example                      |
+| ----------- | -------------------------------- | ---------------------------- |
+| **will**    | future                           | I **will go**.               |
+| **would**   | polite / imaginary               | I **would help** you.        |
+| **shall**   | suggestion / offer               | **Shall** we start?          |
+| **should**  | advice                           | You **should study**.        |
+| **can**     | ability / informal permission    | She **can swim**.            |
+| **could**   | past ability / polite permission | **Could** you pass the book? |
+| **may**     | permission / possibility         | It **may rain**.             |
+| **might**   | weaker possibility               | We **might win**.            |
+| **must**    | strong rule / obligation         | You **must wear** helmet.    |
+| **need to** | requirement                      | You **need to finish** work. |
+| **have to** | compulsion                       | I **have to go** to office.  |
+| **used to** | past habit                       | He **used to play** cricket. |
+
+⭐ VERY SIMPLE VISUAL FLOW
+
+| Action Time        | Supporting Verb |
+| ------------------ | --------------- |
+| Present Continuous | is/am/are + ing |
+| Past Continuous    | was/were + ing  |
+| Future Continuous  | will be + ing   |
+| Present Perfect    | has/have + V₃   |
+| Past Perfect       | had + V₃        |
+| Future Perfect     | will have + V₃  |
+| Passive            | be verb + V₃    |
+
+Super-Short Reference (Memory Formula)
+
+| Category   | Formula                       |
+| ---------- | ----------------------------- |
+| Present    | is/am/are / has/have          |
+| Past       | was/were / had                |
+| Future     | will / shall                  |
+| Negatives  | do/does/did + not             |
+| Questions  | helping/modals before subject |
+| Continuous | be + verb-ing                 |
+| Perfect    | have + V₃                     |
+| Passive    | be + V₃                       |

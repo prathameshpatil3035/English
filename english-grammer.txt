@@ -90,3 +90,367 @@ Super-Short Reference (Memory Formula)
 | Continuous | be + verb-ing                 |
 | Perfect    | have + V₃                     |
 | Passive    | be + V₃                       |
+
+
+========================
+MODAL VERBS – COMPLETE NOTES
+========================
+
+--------------------------------
+1) CAN
+--------------------------------
+Meaning:
+Ability | Permission | Possibility | Informal request
+
+USES:
+
+A) Ability (present)
+   - What someone is able to do now
+
+   Example:
+   I can write APIs.
+   He can debug fast.
+
+   Structure:
+   S + can + V1 + O
+
+B) Permission (informal)
+   - Asking or giving permission
+
+   Example:
+   Can I leave early?
+   You can use my laptop.
+
+C) Possibility (general truth)
+   - Something that is possible
+
+   Example:
+   This bug can cause failure.
+   Too many joins can slow queries.
+
+D) Informal request
+   - Casual asking
+
+   Example:
+   Can you review my code?
+
+Negative:
+   cannot / can't
+
+--------------------------------
+2) COULD
+--------------------------------
+Meaning:
+Past ability | Polite request | Weak possibility | Suggestion
+
+USES:
+
+A) Past ability
+   - Ability in the past
+
+   Example:
+   I could run faster earlier.
+   I could understand this code before.
+
+B) Polite request (formal)
+   - Softer than "can"
+
+   Example:
+   Could you please check this PR?
+   Could you help me?
+
+C) Weak possibility
+   - Not 100% sure
+
+   Example:
+   This could be a DB issue.
+   The server could be down.
+
+D) Suggestion
+   - Giving options
+
+   Example:
+   We could refactor this logic.
+
+--------------------------------
+3) WILL
+--------------------------------
+Meaning:
+Future | Promise | Instant decision | Certainty
+
+USES:
+
+A) Future action
+   - Decision made now
+
+   Example:
+   I will deploy tonight.
+   We will fix this.
+
+B) Promise / assurance
+   Example:
+   I will take care of it.
+
+C) Instant decision
+   - Decided at moment of speaking
+
+   Example:
+   Oh, I will handle this ticket.
+
+D) Strong certainty
+   Example:
+   This will work.
+   He will succeed.
+
+Negative:
+   will not → won't
+
+--------------------------------
+4) WOULD
+--------------------------------
+Meaning:
+Polite | Imaginary | Conditional | Past habit
+
+USES:
+
+A) Polite request (more formal)
+   - More polite than "could"
+
+   Example:
+   Would you mind reviewing this?
+   Would you like coffee?
+
+B) Imaginary situation
+   - Not real now
+
+   Example:
+   I would buy a Mac if I had money.
+   I would refactor if I had time.
+
+C) Conditional sentences
+   Structure:
+   If + past, would + V1
+
+   Example:
+   If I were you, I would fix this.
+
+D) Past habit
+   Example:
+   He would write tests daily.
+
+--------------------------------
+5) SHALL
+--------------------------------
+Meaning:
+Suggestion | Formal rule | Legal obligation
+
+USES:
+
+A) Suggestion (mostly with I / we)
+   Example:
+   Shall we start the meeting?
+   Shall I create the ticket?
+
+B) Formal / legal rule
+   Example:
+   The system shall log all errors.
+   Employees shall follow policies.
+
+Note:
+- Rare in daily conversation
+- Common in documents & contracts
+
+--------------------------------
+6) SHOULD
+--------------------------------
+Meaning:
+Advice | Expectation | Duty | Probability
+
+USES:
+
+A) Advice / recommendation
+   Example:
+   You should write unit tests.
+   We should optimize this query.
+
+B) Expectation
+   Example:
+   The API should respond in 200ms.
+
+C) Moral duty
+   Example:
+   We should follow coding standards.
+
+D) Probability (logical)
+   Example:
+   He should arrive by now.
+
+--------------------------------
+SUBJECT – VERB – OBJECT PATTERN
+--------------------------------
+✔ Correct:
+   I can fix this.
+   He should check logs.
+   They will deploy today.
+
+✘ Incorrect:
+   He cans fix
+   She should fixing
+   We will to deploy
+
+--------------------------------
+NEGATIVE FORMS
+--------------------------------
+can not     → cannot / can't
+could not   → couldn't
+will not    → won't
+would not   → wouldn't
+shall not   → shan't
+should not  → shouldn't
+
+--------------------------------
+QUESTION FORMS
+--------------------------------
+Can you help me?
+Could you explain this?
+Will you deploy today?
+Would you like tea?
+Shall we begin?
+Should we wait?
+
+--------------------------------
+COMPARISON (VERY IMPORTANT)
+--------------------------------
+can     → ability
+could   → polite / past
+will    → future
+would   → polite / imaginary
+shall   → suggestion / rule
+should  → advice
+
+--------------------------------
+COMMON MISTAKES
+--------------------------------
+✘ He can goes
+✔ He can go
+
+✘ I will going
+✔ I will go
+
+✘ Should to do
+✔ Should do
+
+--------------------------------
+ONE-LINE MEMORY RULE
+--------------------------------
+Can     = ability
+Could   = polite
+Will    = future
+Would   = polite + imaginary
+Shall   = suggestion / law
+Should  = advice
+
+=====================
+📌 WHEN TO USE WOULD
+=====================
+
+Would is the past form of “will”, but it is used in many situations, not only past.
+
+1️⃣ Polite requests (very common use)
+
+We use would to sound soft, respectful, and polite.
+
+Structure
+Would + subject + base verb
+
+Examples
+• Would you help me?
+• Would you like some tea?
+• Would you mind opening the door?
+
+👉 More polite than will.
+
+2️⃣ Imaginary / unreal situations (Conditionals)
+
+Used when the situation is not real, only imagined.
+
+Structure
+If + past tense, subject + would + verb
+
+Examples
+• If I were rich, I would buy a car.
+• If he studied, he would pass.
+
+👉 Means: this is not happening now.
+
+3️⃣ Past habit (similar to “used to”)
+
+Used to talk about things that happened regularly in the past, but not now.
+
+Examples
+• When I was a child, I would play outside every day.
+• My grandfather would tell stories at night.
+
+👉 Do NOT use for past states
+Wrong ❌ I would be shy.
+Correct ✔ I used to be shy.
+
+4️⃣ Indirect / reported speech
+
+When we change will → would while reporting.
+
+Direct
+• He said, “I will help you.”
+
+Indirect
+• He said he would help me.
+
+5️⃣ Offers and invitations
+
+Sounds gentle and friendly.
+
+Examples
+• Would you like to join us?
+• Would you care for some coffee?
+
+6️⃣ Preferences (what someone likes more)
+
+Used with rather.
+
+Structure
+Would rather + base verb
+
+Examples
+• I would rather stay home.
+• She would rather walk than take a bus.
+
+7️⃣ Future in the past
+
+Talking about the future from a past point of view.
+
+Examples
+• I knew he would come.
+• She promised she would call.
+
+🔁 WOULD vs WILL vs COULD
+Word	Usage
+will	direct, strong, certain
+would	polite, imaginary, indirect
+could	polite + ability/possibility
+
+Example
+• Will you help me? (direct)
+• Would you help me? (polite)
+• Could you help me? (polite + ability)
+
+🧠 SUPER EASY MEMORY RULE
+
+Use WOULD when:
+✔ you want to be polite
+✔ you are imagining something
+✔ you talk about past habits
+✔ you report future from the past
+
+📌 One-line Summary
+
+Would = polite + imaginary + past habit + future in past
